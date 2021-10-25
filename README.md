@@ -1,6 +1,8 @@
 # SuperSimpleStockMarket
 Assignment - Super Simple Stock Market
 
+Note : Please Build the solution before running.
+
 Language: C#
 
 Key points:
